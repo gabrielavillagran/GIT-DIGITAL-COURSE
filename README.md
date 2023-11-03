@@ -2,4 +2,3 @@
 
 ## Gravando mudanças no repositório
 *comando git push
-*alterando contributor
